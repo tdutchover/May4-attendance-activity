@@ -1,3 +1,8 @@
 div.card {
-  font-size: xx-small;
+  font-size: x-large;
+}
+
+.card-text {
+  background-color:yellow;
+  color: black;
 }
